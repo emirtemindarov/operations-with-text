@@ -1,4 +1,7 @@
-﻿//#include <bits/stdc++.h>
+﻿//MVP, frozen
+//простой функционал, проект заморожен
+
+//#include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
 #include <string> 
